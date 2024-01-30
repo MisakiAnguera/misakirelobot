@@ -1,0 +1,3 @@
+.env
+# usa wildcards y no regex (i.e. *.txt)
+__pycache__
